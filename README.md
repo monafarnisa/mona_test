@@ -9,5 +9,7 @@ mona is now adding changes!
 - create a remote repo
 - practice
 
+- creating a merge conflict with Kristine
+
 ## creator
 - learning [email](mailto:farnisa@nevada.unr.edu)
