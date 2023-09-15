@@ -3,7 +3,7 @@ this is a test repo for the learning hub training
 
 kristine is added as a collaborator.
 
-mona is now adding changes! 
+mona is now adding changes! --------------  changes create an error
 
 ## purpose
 - create a remote repo
