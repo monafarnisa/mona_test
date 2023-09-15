@@ -5,7 +5,7 @@ kristine is added as a collaborator.
 
 mona is now adding changes! 
 
-making merge conflict changes
+making merge conflict changes -- more changes
 
 ## purpose
 - create a remote repo
